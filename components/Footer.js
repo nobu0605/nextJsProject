@@ -38,8 +38,12 @@ export default class Footer extends React.Component {
                 />
               </a>
             </IconContainer>
-            <IconContainer data-href="https://developers.facebook.com/docs/plugins/">
-              <a href={`https://www.facebook.com/sharer.php?src=bm&u=`}>
+            <IconContainer
+              data-href={`https://twitter.com/share?text=&url=https://nextjs-project.herokuapp.com/&hashtags=nextjs-project`}
+            >
+              <a
+                href={`https://twitter.com/share?text=&url=https://nextjs-project.herokuapp.com/&hashtags=nextjs-project`}
+              >
                 <FontAwesomeIcon
                   style={{ width: 35, height: 35 }}
                   color="white"

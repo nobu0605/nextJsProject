@@ -16,11 +16,8 @@ export default class Header extends React.Component {
       >
         <HeaderText>Next</HeaderText>
         <div style={{ float: 'right' }}>
-          <Link href="/slide">
-            <a>
-              <HeaderText>Next.js</HeaderText>
-            </a>
-          </Link>
+          <HeaderText>Next.js</HeaderText>
+
           <HeaderText>React.js</HeaderText>
         </div>
       </div>
