@@ -1,7 +1,7 @@
 # 使用ライブラリ
 
 react-modal<br/>
-react-google-maps
-styled-components
-velocity-react
-react-fontawesome
+react-google-maps<br/>
+styled-components<br/>
+velocity-react<br/>
+react-fontawesome<br/>
